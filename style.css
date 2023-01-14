@@ -38,6 +38,7 @@ body {
   height: 300px;
   border-radius: 30px;
   box-shadow: 2px 2px 2px 2px grey;
+  outline:double;
 }
 
 .card {
