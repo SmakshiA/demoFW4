@@ -37,6 +37,7 @@ body {
 .cards__item {
   height: 300px;
   border-radius: 30px;
+  box-shadow: 2px 2px 2px 2px;
 }
 
 .card {
